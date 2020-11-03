@@ -1,2 +1,1 @@
-
-## React ile API kullanarak kripto borsasını sizlere sunan site.
+**REACT API CRYPTO TRACKER**
